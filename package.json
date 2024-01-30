@@ -4,14 +4,14 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
-    "start": "react-scripts start",
-    "predeploy": "npm run build",
     "react": "^18",
     "react-dom": "^18",
     "next": "14.1.0"
