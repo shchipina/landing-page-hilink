@@ -6,6 +6,8 @@
 ## Description 📃
 Hilink helps users explore new travel destinations. The page has a clean, attractive design with an emphasis on convenience and visual appeal. The page was created using modern web technologies React + Tailwind CSS, which ensures high loading speed and a convenient user experience.
 
+![Preview](https://imgur.com/a/mVC94A2)
+
 ## Tech Stack 🧑🏻‍💻
 - React + Tailwind CSS
 - Vite – for blazing-fast frontend tooling and development
