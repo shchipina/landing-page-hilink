@@ -11,7 +11,7 @@ Hilink helps users explore new travel destinations. The page has a clean, attrac
 - Vite – for blazing-fast frontend tooling and development
 
 ## Setup ⚙️
-$nvm use 20
-git clone https://github.com/shchipina/meal-mate
-$npm install
-$npm run dev
+- $nvm use 20
+- git clone https://github.com/shchipina/landing-page-hilink
+- $npm install
+- $npm run dev
